@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.menu-container{
+    background-color: red;
+    padding: 20px;
+    color: white;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.menus{
+    display: flex;
+
+}
+.logo-photo{
+     
+        width: 120px;
+        height: 20px;
+}
+.item{
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+    font-size: 19px;
+}
+.item:hover{
+    color: black;
+}
+.banner-photo{
+    width: 200px;
+    /* height: 3px; */
+
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 200vh;
+    align-items: center;
+    border: 2px solid gray;
+    /* background-image: https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80; */
+    linear-gradient()
+    
+
+}
